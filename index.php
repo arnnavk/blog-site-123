@@ -53,7 +53,7 @@
         <div class="container" data-aos="fade-up">
   
           <div class="row">
-              <h2><strong>Expert solutions for all your property development needs</strong></h2>
+              <h2><strong>Blog Site</strong></h2>
           </div>
         </div>
     </section>    
