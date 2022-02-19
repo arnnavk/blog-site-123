@@ -89,7 +89,6 @@
             <a href="project_details.html"><img src="assets/img/portfolio/4.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>How To Own Photography For Free?</h4>
-              <p>Haryana</p>
             </div>
           </div>
 
