@@ -65,63 +65,63 @@
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
           
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="blog1.php"><img src="assets/img/portfolio/1.jpg" class="img-fluid" alt=""></a>
+            <a href=""><img src="assets/img/portfolio/1.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>Ten Things That You Never Expect On Healthcare.</h4>
             </div>
           </div>
           
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="project_details.html"><img src="assets/img/portfolio/2.jpg" class="img-fluid" alt=""></a>
+            <a href=""><img src="assets/img/portfolio/2.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>10 Facts That Nobody Told You About Technology.</h4>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="project_details.html"><img src="assets/img/portfolio/3.jpg" class="img-fluid" alt=""></a>
+            <a href=""><img src="assets/img/portfolio/3.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>Quiz: How Much Do You Know about Herbal Tea?</h4>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-            <a href="project_details.html"><img src="assets/img/portfolio/4.jpg" class="img-fluid" alt=""></a>
+            <a href=""><img src="assets/img/portfolio/4.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>How To Own Photography For Free?</h4>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="project_details.html"><img src="assets/img/portfolio/5.jpg" class="img-fluid" alt=""></a>
+            <a href=""><img src="assets/img/portfolio/5.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>10 Mind Numbing Facts About Perfume.</h4>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="project_details.html"><img src="assets/img/portfolio/6.jpg" class="img-fluid" alt=""></a>
+            <a href=""><img src="assets/img/portfolio/6.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>Is Body Oil Still Relevant?</h4>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="project_details.html"><img src="assets/img/portfolio/7.jpg" class="img-fluid" alt=""></a>
+            <a href=""><img src="assets/img/portfolio/7.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>Ten Facts About Water That Will Make You Think Twice.</h4>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="project_details.html"><img src="assets/img/portfolio/8.jpg" class="img-fluid" alt=""></a>
+            <a href=""><img src="assets/img/portfolio/8.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>Master The Skills Of Study Table And Be Successful.</h4>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="project_details.html"><img src="assets/img/portfolio/9.jpg" class="img-fluid" alt=""></a>
+            <a href=""><img src="assets/img/portfolio/9.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>15 Easy Rules Of Healthy Food.</h4>
             </div>
