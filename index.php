@@ -65,7 +65,7 @@
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
           
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-            <a href="project_details.html"><img src="assets/img/portfolio/1.jpg" class="img-fluid" alt=""></a>
+            <a href="blog1.php"><img src="assets/img/portfolio/1.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>Ten Things That You Never Expect On Healthcare.</h4>
             </div>
