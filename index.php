@@ -54,9 +54,121 @@
   
           <div class="row">
               <h2><strong>Blog Site</strong></h2>
+              <p>Welcome this is the blog lists page. Here you can view all the blogs.</p>
           </div>
         </div>
-    </section>    
+    </section>
+    
+    <section id="portfolio" class="portfolio">
+      <div class="container" data-aos="fade-up">
+        <div class="section-header">
+          <h2>Our Projects</h2>
+        </div>
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active" id="filter1">All</li>
+              <li data-filter=".filter-app" id="filter2">Executed Projects</li>
+              <li data-filter=".filter-web" id="filter3">Construction Only Projects</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <a href="project_details.html"><img src="assets/img/portfolio/11.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Sekisui Paint Shop for Yamaha</h4>
+              <p>Chandigarh</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <a href="project_details.html"><img src="assets/img/portfolio/12.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Sekisui Injection Molding</h4>
+              <p>Chandigarh</p>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <a href="project_details.html"><img src="assets/img/portfolio/0.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Amazon Fulfilment Center</h4>
+              <p>Bilaspur</p>
+            </div>
+          </div>
+          
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <a href="project_details.html"><img src="assets/img/portfolio/1.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Amazon Sorting Center</h4>
+              <p>Hyderabad</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <a href="project_details.html"><img src="assets/img/portfolio/10.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Amazon Fulfilment Center</h4>
+              <p>Jamalpur</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <a href="project_details.html"><img src="assets/img/portfolio/2.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Honda Warehouse</h4>
+              <p>Haryana</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <a href="project_details.html"><img src="assets/img/portfolio/3.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Smart Works</h4>
+              <p>Hyderabad</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <a href="project_details.html"><img src="assets/img/portfolio/4.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Smart Works</h4>
+              <p>Gurugram</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <a href="project_details.html"><img src="assets/img/portfolio/5.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Smart Works</h4>
+              <p>Kolkata</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <a href="project_details.html"><img src="assets/img/portfolio/6.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Crystal Coporate Office</h4>
+              <p>Delhi</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <a href="project_details.html"><img src="assets/img/portfolio/7.jpg" class="img-fluid" alt=""></a>
+            <div class="portfolio-info">
+              <h4>Amazon Sorting Center</h4>
+              <p>Haryana</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section>
     
   </main>
 <!-- End #main -->
