@@ -61,14 +61,13 @@
     
     <section id="portfolio" class="portfolio">
       <div class="container" data-aos="fade-up">
-        
+
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
           
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <a href="project_details.html"><img src="assets/img/portfolio/1.jpg" class="img-fluid" alt=""></a>
             <div class="portfolio-info">
               <h4>Amazon Fulfilment Center</h4>
-              <p>Bilaspur</p>
             </div>
           </div>
           
