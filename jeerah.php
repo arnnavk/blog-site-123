@@ -48,11 +48,11 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link" href="fruzelo.html">FRUZELO</a></li>
+          <li><a class="nav-link" href="fruzelo.php">FRUZELO</a></li>
           <li><a class="nav-link active" href="#">JEERAH</a></li>
           
-          <li><a class="nav-link" href="work_with_us.html">WORK WITH US</a></li>
-          <li><a class="nav-link" href="contact_us.html">CONTACT US</a></li>
+          <li><a class="nav-link" href="work_with_us.php">WORK WITH US</a></li>
+          <li><a class="nav-link" href="contact_us.php">CONTACT US</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -89,9 +89,9 @@
         <div class="col-lg-2 col-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            <li><i class="bi bi-chevron-right"></i> <a href="fruzelo.html">Fruzelo</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="fruzelo.php">Fruzelo</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="#">Jeerah</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="work_with_us.html">Work With Us</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="work_with_us.php">Work With Us</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="#">Terms &#38; Conditions</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
           </ul>

@@ -48,11 +48,11 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link" href="fruzelo.html">FRUZELO</a></li>
-          <li><a class="nav-link" href="jeerah.html">JEERAH</a></li>
+          <li><a class="nav-link" href="fruzelo.php">FRUZELO</a></li>
+          <li><a class="nav-link" href="jeerah.php">JEERAH</a></li>
           
-          <li><a class="nav-link active" href="#">WORK WITH US</a></li>
-          <li><a class="nav-link" href="contact_us.html">CONTACT US</a></li>
+          <li><a class="nav-link" href="work_with_us.php">WORK WITH US</a></li>
+          <li><a class="nav-link active" href="contact_us.php">CONTACT US</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
@@ -62,26 +62,68 @@
   <!-- End Header -->
 
   <main id="main">
-    <section id="about3">
-        <div class="container">
-          <div class="row">
-            <h1>WORK WITH US</h1>
-            <p>If you would like to stock / distribute our product and work with us then, you can contact us through our WhatsApp chat button below.</p>
-            <div>
-            <a href="https://api.whatsapp.com/send?phone=919315819120" target="_blank" class="btn-get-started">Click here to start a chat with us</a>
-            </div>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-            <br>
-          </div>
-          </div>
+    <section id="contact" class="contact section-bg">
+      <div class="container">
+
+        <div class="section-header">
+          <h1>Contact Us</h1>
         </div>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-6">
+            <div class="info-box  mb-4">
+              <i class="bx bx-envelope"></i>
+              <h3>Email Us</h3>
+              <p><a href="mailto:info@iceberggroup.in">info@iceberggroup.in</a></p>
+              <br>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="info-box  mb-4">
+              <i class="bx bx-phone-call"></i>
+              <h3>Call Us</h3>
+              <p><strong>Phone no: </strong><a href="tel:01149851112">01149851112</a>
+              <br>  
+              <strong>Toll Free no: </strong><a href="tel:18001030021">18001030021</a>
+              </p>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-6">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
     </section>
+    <a href="https://api.whatsapp.com/send?phone=919315819120" target="_blank" class="back-to-top d-flex align-items-center justify-content-center"><img src="assets/img/whatsapp-icon.png" alt=""></a> 
 
  <!-- ======= Footer ======= -->
  <footer id="footer" class="footer">
@@ -98,9 +140,9 @@
         <div class="col-lg-2 col-6 footer-links">
           <h4>Useful Links</h4>
           <ul>
-            <li><i class="bi bi-chevron-right"></i> <a href="fruzelo.html">Fruzelo</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="jeerah.html">Jeerah</a></li>
-            <li><i class="bi bi-chevron-right"></i> <a href="#">Work With Us</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="fruzelo.php">Fruzelo</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="jeerah.php">Jeerah</a></li>
+            <li><i class="bi bi-chevron-right"></i> <a href="work_with_us.php">Work With Us</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="#">Terms &#38; Conditions</a></li>
             <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
           </ul>

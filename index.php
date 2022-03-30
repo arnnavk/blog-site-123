@@ -48,10 +48,10 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link" href="fruzelo.html">FRUZELO</a></li>
-          <li><a class="nav-link" href="jeerah.html">JEERAH</a></li>
-          <li><a class="nav-link" href="work_with_us.html">WORK WITH US</a></li>
-          <li><a class="nav-link" href="contact_us.html">CONTACT US</a></li>
+          <li><a class="nav-link" href="fruzelo.php">FRUZELO</a></li>
+          <li><a class="nav-link" href="jeerah.php">JEERAH</a></li>
+          <li><a class="nav-link" href="work_with_us.php">WORK WITH US</a></li>
+          <li><a class="nav-link" href="contact_us.php">CONTACT US</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav>
