@@ -66,8 +66,8 @@
 
     <div class="hero-slider swiper">
       <div class="swiper-wrapper">
-        <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/8.png');"></div>
-        <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/9.png');"></div>
+        <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/8.PNG');"></div>
+        <div class="swiper-slide" style="background-image: url('assets/img/hero-carousel/9.PNG');"></div>
       </div>
     </div>
     
