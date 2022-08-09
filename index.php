@@ -216,7 +216,7 @@
             <div class="row d-flex justify-content-center">
             <div class="col-lg-4 col-md-6">
               <div class="member">
-                <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/1.png" alt=""></a></div>
+                <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/1.webp" alt=""></a></div>
                 <div class="details">
                   <br>
                   <span>OZONE SIGNATURE PURIFYING FACE CLEANSER 200 ML</span>
@@ -237,7 +237,7 @@
             
             <div class="col-lg-4 col-md-6">
               <div class="member">
-                <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/2.png" alt=""></a></div>
+                <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/2.webp" alt=""></a></div>
                 <div class="details">
                   <br>
                   <span>OZONE SIGNATURE REPAIR ESSENCE<br> 100ML</span>
@@ -258,7 +258,7 @@
   
             <div class="col-lg-4 col-md-6">
               <div class="member">
-                <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/3.png" alt=""></a></div>
+                <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/3.webp" alt=""></a></div>
                 <div class="details">
                   <br>
                   <span>OZONE SIGNATURE LEAVE IN HAIR SERUM<br> 30 ML</span>
@@ -281,7 +281,7 @@
             <div class="row d-flex justify-content-center">
               <div class="col-lg-4 col-md-6">
                 <div class="member">
-                  <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/4.png" alt=""></a></div>
+                  <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/4.webp" alt=""></a></div>
                   <div class="details">
                     <br>
                     <span>OZONE SIGNATURE BHRINGRAJ OIL(HAIR)<br> 100ML</span>
@@ -302,7 +302,7 @@
               
               <div class="col-lg-4 col-md-6">
                 <div class="member">
-                  <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/5.png" alt=""></a></div>
+                  <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/5.webp" alt=""></a></div>
                   <div class="details">
                     <br>
                     <span>OZONE SIGNATURE CLASSIC HAIR CLEANSER<br> 200 ML</span>
@@ -323,7 +323,7 @@
     
               <div class="col-lg-4 col-md-6">
                 <div class="member">
-                  <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/6.png" alt=""></a></div>
+                  <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/6.webp" alt=""></a></div>
                   <div class="details">
                     <br>
                     <span>OZONE SIGNATURE CLASSICAL HAIR CONDITIONER 200 ML</span>
@@ -346,7 +346,7 @@
               <div class="row d-flex justify-content-center">
                 <div class="col-lg-4 col-md-6">
                   <div class="member">
-                    <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/7.png" alt=""></a></div>
+                    <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/7.webp" alt=""></a></div>
                     <div class="details">
                       <br>
                       <span>OZONE SIGNATURE GUDUCHI TAILA(SKIN &#38; HAIR) 100ML</span>
@@ -367,7 +367,7 @@
                 
                 <div class="col-lg-4 col-md-6">
                   <div class="member">
-                    <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/8.png" alt=""></a></div>
+                    <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/8.webp" alt=""></a></div>
                     <div class="details">
                       <br>
                       <span>OZONE SIGNATURE GULAB JAL 100 ML</span>
@@ -389,7 +389,7 @@
       
                 <div class="col-lg-4 col-md-6">
                   <div class="member">
-                    <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/9.png" alt=""></a></div>
+                    <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/9.webp" alt=""></a></div>
                     <div class="details">
                       <br>
                       <span>OZONE SIGNATURE HAND AND BODY LOTION 200 ML</span>
@@ -412,7 +412,7 @@
                 <div class="row d-flex justify-content-center">
                   <div class="col-lg-4 col-md-6">
                     <div class="member">
-                      <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/10.png" alt=""></a></div>
+                      <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/10.webp" alt=""></a></div>
                       <div class="details">
                         <br>
                         <span>OZONE SIGNATURE HARIDRADYA TAILA(FACE) 30ML</span>
@@ -433,7 +433,7 @@
                   
                   <div class="col-lg-4 col-md-6">
                     <div class="member">
-                      <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/11.png" alt=""></a></div>
+                      <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/11.webp" alt=""></a></div>
                       <div class="details">
                         <br>
                         <span>OZONE SIGNATURE  KANAKA TAILA(FACE)<br> 30ML</span>
@@ -454,7 +454,7 @@
         
                   <div class="col-lg-4 col-md-6">
                     <div class="member">
-                      <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/12.png" alt=""></a></div>
+                      <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/12.webp" alt=""></a></div>
                       <div class="details">
                         <br>
                         <span>OZONE SIGNATURE KESHRAJADI TAILA(HAIR) 100ML</span>
@@ -477,7 +477,7 @@
                   <div class="row d-flex justify-content-center">
                     <div class="col-lg-4 col-md-6">
                       <div class="member">
-                        <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/13.png" alt=""></a></div>
+                        <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/13.webp" alt=""></a></div>
                         <div class="details">
                           <br>
                           <span>OZONE SIGNATURE KUMKUMADI TAILA<br> 13ml</span>
@@ -498,7 +498,7 @@
                     
                     <div class="col-lg-4 col-md-6">
                       <div class="member">
-                        <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/14.png" alt=""></a></div>
+                        <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/14.webp" alt=""></a></div>
                         <div class="details">
                           <br>
                           <span>OZONE SIGNATURE MADHUGANDHA TAILA(BODY) 100ML</span>
@@ -519,7 +519,7 @@
           
                     <div class="col-lg-4 col-md-6">
                       <div class="member">
-                        <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/15.png" alt=""></a></div>
+                        <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/15.webp" alt=""></a></div>
                         <div class="details">
                           <br>
                           <span>OZONE SIGNATURE MOISTURIZING LOTION 100 ML</span>
@@ -540,7 +540,7 @@
 
                     <div class="col-lg-4 col-md-6">
                       <div class="member">
-                        <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/16.png" alt=""></a></div>
+                        <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/16.webp" alt=""></a></div>
                         <div class="details">
                           <br>
                           <span>OZONE SIGNATURE NATURAL SUN PROTECTOR 100 ML</span>
@@ -561,7 +561,7 @@
 
                     <div class="col-lg-4 col-md-6">
                       <div class="member">
-                        <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/17.png" alt=""></a></div>
+                        <div class="pic"><a href="#"><img src="assets/img/Ozone Signature Products/17.webp" alt=""></a></div>
                         <div class="details">
                           <br>
                           <span>OZONE SIGNATURE USHMAK TAILA(BODY) 100ML</span>
