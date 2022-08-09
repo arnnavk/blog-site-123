@@ -776,7 +776,7 @@ font-size: 14px;
 }
 
 .footer .footer-links ul a:hover {
-  color: #fff;
+  color: black;
 }
 
 .footer form {
@@ -823,8 +823,6 @@ font-size: 14px;
   justify-content: center;
   width: 40px;
   height: 40px;
-  border-radius: 50%;
-  border: 1px solid rgba(255, 255, 255, 0.2);
   font-size: 16px;
   color: #ada6a1;
   transition: 0.3s;
@@ -832,7 +830,6 @@ font-size: 14px;
 
 .footer .social-links a:hover {
   color: black;
-  border-color: black;
 }
 
 .footer .copyright {
