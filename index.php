@@ -650,7 +650,7 @@
           <h4>Subscribe</h4>
           <p>Subscribe to receive updates, access to exclusive deals, and more.</p>
           <form action="" method="post">
-            <input type="email" name="email" placeholder="Enter your email"><input type="submit" value="Subscribe">
+            <input type="email" name="email" placeholder="Enter your email" required><input type="submit" value="Subscribe">
           </form>
         </div>
       </div>

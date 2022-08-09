@@ -831,8 +831,8 @@ font-size: 14px;
 }
 
 .footer .social-links a:hover {
-  color: #fff;
-  border-color: #fff;
+  color: black;
+  border-color: black;
 }
 
 .footer .copyright {
